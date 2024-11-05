@@ -1,6 +1,6 @@
 {
-  "name": "11-object-oriented-program",
-  "version": "1.0.0",
+  "name": "@ra5243/11-object-oriented-program",
+  "version": "1.1.1",
   "description": "This is a simple OOP project.",
   "main": "index.js",
   "type": "module",
