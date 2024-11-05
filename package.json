@@ -1,0 +1,20 @@
+{
+  "name": "11-object-oriented-program",
+  "version": "1.0.0",
+  "description": "This is a simple OOP project.",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^12.0.1"
+  }
+}
